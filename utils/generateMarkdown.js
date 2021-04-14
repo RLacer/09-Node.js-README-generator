@@ -1,8 +1,11 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
+  console.log(license);
+  license = license[0].split(' ').join('%20');
   if (license !== "N/A") {
-    return `![license](https://img.shields.io/badge/License-${license}-blue.svg)](https://opensource.org/licenses/Apache-2.0)`
+    return `![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`
+
   }
   return "";
 }
@@ -41,6 +44,7 @@ ${renderLicenseLink(data.license)}
  * [Installation](#installation)
  * [Author](#author)
  * [Contributors](#contributors)
+ * [Contact Me](#contact)
  
 ${renderLicenseSection(data.license)}
  
@@ -66,7 +70,7 @@ ${renderLicenseSection(data.license)}
  ### Contributors: ${data.contributors}
  
  
- # Contact Me With Questions:
+ ## Contact Me With Questions:
  * Github: ${data.github}
  * Email: ${data.email}`;
 

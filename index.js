@@ -68,8 +68,9 @@ const questions = [
         type: "checkbox",
         name: "license",
         message: "Which license(s) do you need?",
-        choices: ["Academic-Free-License-v3.0", "Apache-2.0", "Artistic-2.0", "Educational-Community-License-2.0", "GNU-General-Public-License-Family", "MIT", "Mozilla-Public-License-2.0", "The-Unlicense",  "N/A"],
+        choices: [  "Academic Free License v3.0",  "Apache 2.0", "Artistic 2.0", "Educational Community License 2.0", "GNU General Public License Family", "MIT", "Mozilla Public License 2.0", "The Unlicense",  "N/A"],      
     },
+         
     {
         type: 'input',
         message: 'What is your Github URL?',

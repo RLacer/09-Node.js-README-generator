@@ -1,5 +1,5 @@
 # ttt
-  ![license](https://img.shields.io/badge/License-Apache-2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  ![GitHub license](https://img.shields.io/badge/license-Academic%20Free%20License%20v3.0-blue.svg)
 
   # Table of Contents       
 
@@ -12,10 +12,11 @@
  * [Installation](#installation)
  * [Author](#author)
  * [Contributors](#contributors)
+ * [Contact Me](#contact)
  
 ## License
     
-    This project is licensed under the Apache-2.0
+    This project is licensed under the Academic Free License v3.0
  
  ## Description:
  * ttt
@@ -31,7 +32,7 @@
  
  ## Installation:
  * Use this command to install:
- * ttt
+ * 
  
  ### Author: ttt 
  
@@ -39,6 +40,6 @@
  ### Contributors: ttt
  
  
- # Contact Me With Questions:
- * Github: t
- * Email: t
+ ## Contact Me With Questions:
+ * Github: ttt
+ * Email: ttt
