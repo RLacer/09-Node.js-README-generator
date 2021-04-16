@@ -44,7 +44,7 @@ ${renderLicenseLink(data.license)}
  * [Author](#author)
  * [Contributors](#contributors)
  * [Contact Me](#contact)
- * [Demo](#demo)
+ * [Link](#link)
  
 ${renderLicenseSection(data.license)}
  
@@ -74,8 +74,7 @@ ${renderLicenseSection(data.license)}
 * Github: ${data.github}
 * Email: ${data.email}
 
-### Demo`
-
+### Link`
 
 
 }
