@@ -19,17 +19,17 @@
     This project is licensed under the MIT
  
  ## Description:
- * An easy way to create a readme file for your project
+ * An easy way to create a readme file
  
  ## Usage:
- * The user answers prompts, and a readme template is populate. A file is created in the root directory.
+ * The user answers the prompts and a readme file is created in the root directory.
  
  ## Test:
-  * Currently, there is no test available
+  * Currently, no test is available
  
  
  ## Installation:
- * Clone or fork the repository, then run npm install
+ * Clone or fork the current repository, then run npm install
  
  ### Author:
   Rebecca Lacer 
@@ -45,3 +45,4 @@
 * Email: r.a.lacer@hotmail.com
 
 ### Demo
+![Alt Text](assets/readme.gif)
