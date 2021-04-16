@@ -44,6 +44,7 @@ ${renderLicenseLink(data.license)}
  * [Author](#author)
  * [Contributors](#contributors)
  * [Contact Me](#contact)
+ * [Demo](#demo)
  
 ${renderLicenseSection(data.license)}
  
@@ -54,24 +55,27 @@ ${renderLicenseSection(data.license)}
  * ${data.usage}
  
  ## Test:
- 
- * Use this command to test:
- * ${data.test}
+  * ${data.test}
  
  
  ## Installation:
- * Use this command to install:
  * ${data.installation}
  
- ### Author: ${data.author} 
+ ### Author:
+  ${data.author} 
  
  
- ### Contributors: ${data.contributors}
+ ### Contributors:
+  ${data.contributors}
  
  
- ## Contact Me With Questions:
- * Github: ${data.github}
- * Email: ${data.email}`;
+ ### Contact Me With Questions or for More Info:
+ 
+* Github: ${data.github}
+* Email: ${data.email}
+
+### Demo`
+
 
 
 }
