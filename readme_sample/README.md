@@ -1,4 +1,4 @@
-# Readme Generator Homework
+# Password Generator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   # Table of Contents       
@@ -19,17 +19,17 @@
     This project is licensed under the MIT
  
  ## Description:
- * An easy way to create a readme file
+ * This project will generate a unique password
  
  ## Usage:
- * The user answers prompts and a readme file  is  created in the root directory
+ * Based on user input, a password will be generated
  
  ## Test:
-  * Currently, no test is available
+  * No test is currently available
  
  
  ## Installation:
- * Clone or fork the current repository, then run npm install
+ * Just link to the homepage to use
  
  ### Author:
   Rebecca Lacer 
@@ -41,12 +41,8 @@
  
  ### Contact Me With Questions or for More Info:
  
-* Github: https://github.com/RLacer
-* Email: r.a.lacer@hotmail.com
+* Github: someone@github
+* Email: someone@email
 
 ### Link
-* Follow the link to view a walkthrough video
-https://youtu.be/2FshLwaoXDE
-
-## Additional Info
-There is a sample folder to meet the homework requirement for an additional readme
+Example of a homepage link (link example)
