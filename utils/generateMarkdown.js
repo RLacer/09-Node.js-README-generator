@@ -74,7 +74,10 @@ ${renderLicenseSection(data.license)}
 * Github: ${data.github}
 * Email: ${data.email}
 
-### Link`
+### Link
+${data.link}`
+
+
 
 
 }

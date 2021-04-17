@@ -68,6 +68,12 @@ const questions = [
         name: 'email',
 
     },
+    {
+        type: 'input',
+        message: 'Enter a relevant link and description for that link',
+        name: 'link',
+
+    },
 
 ]
 
